@@ -1,4 +1,4 @@
-module ru.sobinda.java4homeworksjavacore42 {
+module ru.sobinda.java4homeworksjavacore {
     requires javafx.controls;
     requires javafx.fxml;
 

@@ -1,1 +1,5 @@
 rootProject.name = "Java-4-Homeworks-Java-Core-4-2"
+
+include 'db'
+include 'service'
+include 'api'
